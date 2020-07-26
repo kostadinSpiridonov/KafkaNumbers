@@ -1,9 +1,0 @@
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\bin\Debug\netcoreapp3.1\MessageBus.deps.json
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\bin\Debug\netcoreapp3.1\MessageBus.dll
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.csprojAssemblyReference.cache
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.AssemblyInfoInputs.cache
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.AssemblyInfo.cs
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\bin\Debug\netcoreapp3.1\MessageBus.pdb
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.dll
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.pdb
-C:\Users\KOS\source\repos\NumbersGenerator\MessageBus\obj\Debug\netcoreapp3.1\MessageBus.csproj.CoreCompileInputs.cache
